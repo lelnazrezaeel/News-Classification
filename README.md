@@ -21,8 +21,8 @@ The dataset is balanced and provides a diverse set of statements for training an
 
 ## Project Structure
 
-- md.ReadMe
-- pdf.Report1-Phase
+- ReadMe.md
+- Phase1-Report.pdf
 - src/
   - (Project code files)
 - data/
