@@ -2499,3 +2499,83 @@ Tokenized Statement,Label
 "['About', '230000', 'people', 'that', 'were', 'on', 'unemployment', 'when', 'I', 'took', 'office', 'are', 'not', 'on', 'unemployment', 'now', '.']",mostly-true
 "['The', 'average', 'Atlanta', 'resident', 'spends', 'an', 'extra', '$', '924', 'each', 'year', 'in', 'additional', 'gasoline', 'and', 'wasted', 'time', '.']",mostly-true
 "['President', 'Obamas', 'suggested', 'reduction', 'in', 'spending', 'for', 'next', 'year', '$', '0', '.']",mostly-true
+"['Says', 'Ted', 'Cruz', 'represents', 'a', 'Chinese', 'company', 'found', 'guilty', 'of', 'stealing', 'blueprints', 'from', 'an', 'American', 'manufacturer', '.']",mostly-true
+"['Large', 'phone', 'companies', 'and', 'their', 'trade', 'association', 'have', 'hired', '35', 'registered', 'lobbyists', 'to', 'influence', 'and', 'pass', 'SB', '271', 'deregulation', 'legislation', '.']",mostly-true
+"['Only', '14', 'percent', 'of', 'Catholics', 'agree', 'with', 'the', 'Vaticans', 'position', 'that', 'abortion', 'should', 'be', 'illegal', '.']",mostly-true
+"['George', 'Allen', 'voted', 'for', '40000', 'earmarks', '.']",mostly-true
+"['By', 'the', 'time', 'I', 'finish', 'this', 'speech', 'two', 'Americans', 'will', 'be', 'slain', 'six', 'women', 'will', 'be', 'raped', '27', 'of', 'us', 'will', 'be', 'robbed', 'and', '50', 'more', 'will', 'be', 'beaten', '.']",mostly-true
+"['The', 'Buffett', 'rule', 'raises', 'virtually', 'no', 'money', 'maybe', 'a', 'day', 'and', 'a', 'half', 'of', 'our', 'borrowing', 'per', 'year', '.']",mostly-true
+"['Its', 'the', 'first', 'time', 'in', 'the', 'nation', 'this', 'many', 'members', 'have', 'been', 'drawn', 'by', 'a', 'Legislature', 'into', 'the', 'same', 'districts', 'where', 'it', 'was', 'nt', 'a', 'court', 'order', '.']",mostly-true
+"['Says', 'New', 'Jersey', 'Devils', 'managing', 'partner', 'Jeff', 'Vanderbeek', 'froze', 'all', 'those', 'monies', 'during', 'the', 'toughest', 'years', 'in', '0809', 'and', 'refused', 'to', 'give', 'the', 'charitable', 'dollars', 'that', 'he', 'was', 'required', 'to', 'give', 'by', 'the', 'contract', '.']",mostly-true
+"['Says', 'at', 'the', 'state', 'level', 'were', 'spending', 'more', 'on', 'tax', 'expenditures', 'than', 'we', 'are', 'on', 'public', 'safety', 'health', 'care', 'and', 'education', 'combined', '.']",mostly-true
+"['Lean', 'finely', 'textured', 'beef', 'is', 'the', 'proper', 'name', 'not', 'pink', 'slime', 'and', 'it', 'is', 'a', 'safe', 'widely', 'used', 'product', '.']",mostly-true
+"['Under', 'President', 'Obama', 'domestic', 'oil', 'production', 'is', 'at', 'an', 'eightyear', 'high', '.']",mostly-true
+"['As', 'the', 'usage', 'of', 'synthetic', 'marijuana', 'has', 'dramatically', 'increased', 'instances', 'of', 'violence', 'bodily', 'harm', 'and', 'even', 'death', 'have', 'risen', 'with', 'it', '.']",mostly-true
+"['Adding', 'ethanol', 'to', 'gas', 'raises', 'food', 'costs', '.']",mostly-true
+"['Says', 'Jeff', 'Wentworth', 'was', 'the', 'only', 'Republican', 'to', 'vote', 'against', 'the', 'Texas', 'measure', 'requiring', 'women', 'to', 'have', 'a', 'sonogram', 'before', 'receiving', 'an', 'abortion', '.']",mostly-true
+"['Says', 'Ronald', 'Reagan', 'understood', 'repeatedly', 'that', 'when', 'the', 'deficit', 'started', 'to', 'get', 'out', 'of', 'control', 'that', 'for', 'him', 'to', 'make', 'a', 'deal', 'he', 'would', 'have', 'to', 'propose', 'both', 'spending', 'cuts', 'and', 'tax', 'increases', '.']",mostly-true
+"['Says', 'when', 'New', 'Jersey', 'adopted', 'guaranteed', 'coverage', 'and', 'cost', 'provisions', 'without', 'a', 'mandate', 'individual', 'health', 'insurance', 'market', 'rates', 'doubled', 'or', 'tripled', 'and', 'enrollment', 'dropped', 'from', '180000', 'people', 'to', '80000', 'people', '.']",mostly-true
+"['In', 'the', 'past', '10', 'years', 'our', 'Austin', 'water', 'rates', 'have', 'increased', 'by', '100', 'percent', 'and', 'we', 'now', 'have', 'the', 'highest', 'water', 'cost', 'of', 'the', 'top', '10', 'cities', 'in', 'Texas', '.']",mostly-true
+"['Tim', 'Kaine', 'reduced', 'higher', 'education', 'funding', 'by', '25', 'percent', 'when', 'he', 'was', 'governor', 'driving', 'up', 'tuition', '...']",mostly-true
+"['We', 'have', 'the', 'lowest', 'percapita', 'spending', 'of', 'any', 'state', 'in', 'the', 'nation', 'except', 'for', 'South', 'Dakota', '.']",mostly-true
+"['Last', 'year', 'we', 'produced', '14', 'percent', 'less', 'oil', 'on', 'public', 'lands', 'than', 'we', 'did', 'the', 'year', 'before', '.']",mostly-true
+"['Polls', 'show', 'Americans', 'are', 'overwhelmingly', 'opposed', 'to', 'Obamacare', 'especially', 'the', 'individual', 'mandate', '.']",mostly-true
+"['Says', 'New', 'Jersey', 'has', 'the', 'most', 'educated', 'population', 'of', 'all', 'the', 'states', 'in', 'this', 'country', '.']",mostly-true
+"['Says', 'Lake', 'Erie', 'contains', 'more', 'native', 'fish', 'than', 'all', 'the', 'other', 'Great', 'Lakes', 'combined', '.']",mostly-true
+"['This', 'bill', 'allows', 'Virginia', 'to', 'join', 'about', '23', 'other', 'states', 'that', 'have', 'an', 'ultrasound', 'procedure', 'before', 'an', 'abortion', '.']",mostly-true
+"['Because', 'of', 'the', 'new', 'health', 'care', 'law', 'Americans', 'no', 'longer', 'will', 'see', 'their', 'coverage', 'dropped', 'or', 'capped', 'when', 'illness', 'strikes', '.']",mostly-true
+"['By', 'the', 'time', 'Obama', 'took', 'office', 'The', 'Bush', 'administration', 'had', 'given', 'the', 'car', 'companies', '$', '13', 'billion', 'and', 'the', 'money', 'was', 'now', 'gone', '.']",mostly-true
+"['We', 'also', 'have', 'in', 'a', 'park', 'that', 's', 'not', 'far', 'from', 'here', 'an', 'ability', 'to', 'build', 'a', 'reservoir', 'that', 'can', 'hold', 'a', '30day', 'water', 'supply', 'for', 'the', 'city', 'of', 'Atlanta', '.']",mostly-true
+"['Says', 'there', 'have', 'been', 'well', 'over', '54', 'million', 'abortions', 'since', '1973', '.']",mostly-true
+"['Because', 'of', 'the', 'new', 'health', 'care', 'law', '2.5', 'million', 'young', 'adults', 'now', 'have', 'coverage', '.']",mostly-true
+"['Says', 'David', 'Rivera', 'received', 'a', '$', '5000', 'campaign', 'contribution', 'from', 'Congressman', 'Spencer', 'Bachus', 'who', 'is', 'currently', 'under', 'House', 'Ethics', 'investigation', 'for', 'insider', 'trading', '.']",mostly-true
+"['In', 'Texas', 'there', 'are', '668', 'Democratic', 'Hispanic', 'elected', 'officials', 'to', 'the', '60', 'in', 'the', 'Republican', 'Party', '.']",mostly-true
+"['The', 'Wisconsin', 'state', 'Assembly', 'chambers', 'extend', 'to', 'the', 'bathroom', 'and', 'the', 'parlor', 'and', 'rules', 'allow', 'members', 'to', 'vote', 'for', 'each', 'other', 'if', 'the', 'member', 'is', 'in', 'the', 'chambers', '.']",mostly-true
+"['Obamas', 'secretary', 'of', 'energy', 'Dr.', 'Steven', 'Chu', 'has', 'said', 'publicly', 'he', 'wants', 'us', 'to', 'pay', 'European', 'levels', 'for', 'gasoline', 'and', 'that', 'would', 'be', '$', '9', 'or', '$', '10', 'a', 'gallon', '.']",mostly-true
+"['Says', 'Gov.', 'Scott', 'Walker', 'cut', 'aid', 'to', 'local', 'schools', 'despite', 'campaigning', 'on', 'trying', 'to', 'restore', 'twothirds', 'state', 'funding', 'for', 'education']",mostly-true
+"['It', 'costs', 'about', '$', '40000', 'a', 'year', 'for', 'a', 'homeless', 'person', 'to', 'be', 'on', 'the', 'streets', '.']",mostly-true
+"['A', 'clear', 'majority', 'of', 'Americans', 'support', 'removing', 'the', 'costsharing', 'requirement', 'for', 'prescription', 'contraceptive', 'coverage', '.']",mostly-true
+"['Georgia', 'ranks', 'last', 'in', 'job', 'growth', '.']",mostly-true
+"['They', 're', 'paying', 'a', 'less', 'rate', 'of', 'tax', ' ', 'these', 'richest', 'people', 'in', 'America', ' ', 'than', 'they', 'have', 'in', 'the', 'last', '80', 'years', '.']",mostly-true
+"['A', 'hundred', 'percent', 'of', 'all', 'the', 'jobs', 'lost', 'during', 'the', 'recession', 'have', 'been', 'reclaimed', 'in', 'Texas', ' ', 'while', 'the', 'nation', 'is', 'at', 'about', '36', 'percent', '.']",mostly-true
+"['A', 'little', 'less', 'than', '50', 'percent', 'of', 'the', 'people', 'in', 'this', 'country', 'depend', 'on', 'some', 'form', 'of', 'federal', 'payment', 'some', 'form', 'of', 'government', 'benefit', 'to', 'help', 'provide', 'for', 'them', '.']",mostly-true
+"['Fifty', 'percent', 'of', 'the', 'graduating', 'class', 'of', 'the', 'year', '2012', 'will', 'have', 'smoked', 'marijuana', 'or', 'have', 'done', 'illegal', 'drugs', '.']",mostly-true
+"['Rhode', 'Island', 'is', 'the', 'only', 'state', 'where', 'officers', 'at', 'statesupported', 'colleges', 'carry', 'out', 'their', 'duties', 'unarmed', '.']",mostly-true
+"['Employment', 'in', 'Gwinnett', 'is', 'up', 'more', 'than', '3', 'percent', 'over', 'last', 'year', 'and', 'unemployment', 'is', 'the', 'lowest', 'of', 'the', 'five', 'core', 'metro', 'counties', '.']",mostly-true
+"['There', 'are', 'a', 'larger', 'number', 'of', 'shark', 'attacks', 'in', 'Florida', 'than', 'there', 'are', 'cases', 'of', 'voter', 'fraud', '.']",mostly-true
+"['In', 'some', 'communities', 'for', '$', '10000', 'worth', 'of', 'PIP', 'coverage', 'its', '$', '1500', 'a', 'year', '.']",mostly-true
+"['We', 'supported', 'the', 'first', 'new', 'nuclear', 'power', 'plant', 'in', 'three', 'decades', '.']",mostly-true
+"['Says', 'he', 'did', 'the', 'very', 'best', 'in', 'a', 'recent', 'poll', 'in', 'Iowa', 'matching', 'up', 'each', 'of', 'the', 'major', 'Republican', 'presidential', 'candidates', 'against', 'President', 'Barack', 'Obama', '.']",mostly-true
+"['Says', 'there', 's', 'no', 'proven', 'instance', 'where', 'hydraulic', 'fracking', 'has', 'polluted', 'groundwater', '.']",mostly-true
+"['New', 'Jersey', 'has', 'the', 'second', 'highest', 'rate', 'of', 'institutionalization', 'of', 'people', 'with', 'developmental', 'disabilities', 'in', 'America', '.', 'Only', 'Texas', 'puts', 'more', 'of', 'its', 'citizens', ' ', 'confines', 'more', 'of', 'its', 'citizens', ' ', 'to', 'institutions', 'than', 'New', 'Jersey', '.']",mostly-true
+"['When', 'I', 'was', 'born', 'defense', 'spending', 'was', '60', 'percent', 'of', 'the', 'budget', '.', 'Its', 'now', '17', 'percent', '.']",mostly-true
+"['Right', 'now', '50', 'percent', 'of', 'Florida', 'students', 'leaving', 'high', 'school', 'can', 'not', 'read', 'at', 'grade', 'level', '.']",mostly-true
+"['The', 'governor', 'is', 'trying', 'to', 'take', 'credit', 'for', 'recent', 'actions', 'taken', 'by', 'these', 'companies', '.', 'The', 'problem', 'is', 'that', 'for', 'all', 'three', 'companies', 'the', 'decision', 'to', 'move', 'or', 'stay', 'in', 'New', 'Jersey', 'happened', 'before', 'Chris', 'Christie', 'became', 'governor', '.']",mostly-true
+"['Other', 'states', 'have', 'considered', 'or', 'have', 'sunset', 'advisory', 'commissions', 'the', 'federal', 'government', 'has', 'the', 'ability', 'too', '.']",mostly-true
+"['I', 'have', 'a', 'very', 'conservative', 'voting', 'record', '.']",mostly-true
+"['Says', 'Mitt', 'Romney', 'supports', 'a', 'plan', 'to', 'slowly', 'and', 'gradually', 'raise', 'the', 'retirement', 'age', 'of', 'Social', 'Security', '.']",mostly-true
+"['The', 'cost', 'ofa', 'gas', 'tank', 'fillup', 'has', 'risen$30', 'sinceBarack', 'Obama', 'became', 'president', '.']",mostly-true
+"['Says', 'the', 'federal', 'government', 'could', 'save', '$', '175587', 'by', 'eliminating', 'a', 'study', 'of', 'the', 'connection', 'between', 'cocaine', 'and', 'risky', 'sex', 'habits', 'of', 'the', 'Japanese', 'quail', '.']",mostly-true
+"['They', 're', 'saying', 'that', '40', 'percent', 'of', 'the', 'traffic', 'that', 'goes', 'over', 'the', 'Sakonnet', 'River', 'Bridge', 'is', 'from', 'out', 'of', 'state', '.']",mostly-true
+"['Says', 'in', 'his', 'years', 'as', 'a', 'Texas', 'legislator', 'we', 'passed', 'three', 'pay', 'increases', 'for', 'teachers', 'and', 'provided', 'them', 'with', 'health', 'insurance', '.']",mostly-true
+"['We', 'are', 'poised', 'to', 'get', 'rid', 'of', 'over', '1000', 'more', 'regulations', 'in', '2012', '.']",mostly-true
+"['Romney', 'adviser', 'admits', 'Romneycare', 'was', 'blueprint', 'for', 'Obamacare', '.']",mostly-true
+"['Oregon', 'House', 'Republicans', 'jobs', 'plan', 'could', 'generate', 'more', 'than', '50000', 'jobs', 'over', 'five', 'years', '.']",mostly-true
+"['The', 'commercial', 'property', 'tax', 'in', 'Providence', 'is', 'second', 'highest', 'in', 'the', 'country', 'behind', 'Detroit', '.']",mostly-true
+"['Nationwide', 'tuition', 'at', 'public', 'universities', 'is', 'up', 'almost', '300', 'percent', '...', 'in', 'the', 'last', '20', 'years', '.']",mostly-true
+"['Says', 'Chris', 'Christie', 'inherited', 'the', 'highest', 'taxes', 'in', 'America', 'and', 'the', 'worst', 'unemployment', 'in', 'the', 'region', '.']",mostly-true
+"['Newt', 'Gingrich', 'was', 'fined', '$', '300000', 'for', 'ethics', 'violations', '.']",mostly-true
+"['Public', 'education', 'has', 'been', 'permanently', 'cutby', '$', '1.6', 'billion', 'through', 'changes', 'in', 'the', 'Standards', 'of', 'Quality', 'funding', 'formula', '.']",mostly-true
+"['No', 'candidate', 'has', 'run', 'more', 'negative', 'ads', 'in', 'American', 'history', 'than', 'Barack', 'Obama', 'did', 'in', '2008', 'especially', 'in', 'the', 'general', '.']",mostly-true
+"['Most', 'women', 'including', '98', 'percent', 'of', 'Catholic', 'women', 'have', 'used', 'contraception', '.']",mostly-true
+"['Says', 'we', 'brought', 'crime', 'rate', 'down', 'by', '30', 'percent', 'when', 'he', 'was', 'mayor', 'of', 'Dallas', '.']",mostly-true
+"['United', 'States', 'of', 'America', 'is', 'twentysixth', 'in', 'school', 'performance', 'in', 'the', 'world', '.']",mostly-true
+"['Says', 'U.S.', 'Senate', 'Democrats', 'have', 'gone', 'without', 'any', 'budget', 'at', 'all', 'for', 'more', 'than', '1000', 'days', '.']",mostly-true
+"['Savannah', 'is', 'home', 'to', 'the', 'fastestgrowing', 'port', 'in', 'the', 'nation', '.']",mostly-true
+"['Congressman', 'Phil', 'Roe', 'hands', 'out', '$', '1.3', 'M', 'government', 'check', 'from', 'a', 'federal', 'program', 'that', 'he', 'voted', 'against', '.']",mostly-true
+"['We', 'balanced', 'the', 'budget', 'with', 'the', '1997', 'Balanced', 'Budget', 'Act', 'and', 'ultimately', 'had', 'four', 'consecutive', 'balanced', 'budgets', '.']",mostly-true
+"['The', 'U.S.', 'gun', 'homicide', 'rate', 'is', '20', 'times', 'the', 'combined', 'rate', 'of', 'other', 'western', 'nations', '.']",mostly-true
+"['Republicanleaning', 'states', 'get', 'more', 'in', 'federal', 'dollars', 'than', 'they', 'pay', 'in', 'taxes', '.']",mostly-true
+"['Nevada', 'is', 'No', '.', '1', 'in', 'unemployment', 'violent', 'crime', 'car', 'theft', 'divorce', 'robberies', 'and', 'foreclosures', '.']",mostly-true
+"['Says', 'Newt', 'Gingrich', 'said', 'Spanish', 'is', 'the', 'language', 'of', 'the', 'ghetto', '.']",mostly-true
+"['In', 'the', 'last', '22', 'months', 'businesses', 'have', 'created', 'more', 'than', '3', 'million', 'jobs', '.', 'Last', 'year', 'they', 'created', 'the', 'most', 'jobs', 'since', '2005', '.']",mostly-true
